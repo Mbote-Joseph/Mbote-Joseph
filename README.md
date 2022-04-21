@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning and in my final year BSc. Computer Science at JKUAT.
 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
+    -Email: mbotejoseph001@gmail.com 
+    Mobile: +254792622515
+
 - ⚡ Fun fact: ...
 <!--
 **Mbote-Joseph/Mbote-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
