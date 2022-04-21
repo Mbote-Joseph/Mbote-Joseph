@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+## I am Mbote-Joseph, Software Engineer.
 
 - 🌱 I’m currently learning and in my final year BSc. Computer Science at JKUAT.
 
@@ -8,6 +8,23 @@
 - 📫 How to reach me: 
     -Email: mbotejoseph001@gmail.com 
     Mobile: +254792622515
+
+
+##Languages:
+-Python
+-JavaScript
+-Java
+-HTML
+-CSS
+-PHP
+
+##Frameworks
+-Django
+-Angular
+
+##Libraries
+-React
+
 
 - ⚡ Fun fact: ...
 <!--
