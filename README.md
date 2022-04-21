@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+- 🌱 I’m currently learning and in my final year BSc. Computer Science at JKUAT.
+
+
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **Mbote-Joseph/Mbote-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
