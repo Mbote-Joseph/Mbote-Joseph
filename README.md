@@ -10,20 +10,20 @@
     Mobile: +254792622515
 
 
-##Languages:
--Python
--JavaScript
--Java
--HTML
--CSS
--PHP
+## Languages:
+- Python
+- JavaScript
+- Java
+- HTML
+- CSS
+- PHP
 
-##Frameworks
--Django
--Angular
+## Frameworks
+- Django
+- Angular
 
-##Libraries
--React
+## Libraries
+- React
 
 
 - ⚡ Fun fact: ...
