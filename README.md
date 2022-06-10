@@ -21,7 +21,7 @@
 ## Frameworks
 - Django
 - Angular
-![(https://angular.io/assets/images/logos/angular/logo-nav@2x.png)]
+![This is an image](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
 
 ## Libraries
 - React JS
