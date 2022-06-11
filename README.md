@@ -22,7 +22,8 @@
 - Django
 - Angular
 ![This is an image](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
-![This is an image](https://www.edgica.com/wp-content/files/django-logo-big.jpg | height=50)
+
+<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="400" />
 
 
 ## Libraries
