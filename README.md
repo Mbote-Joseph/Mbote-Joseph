@@ -23,7 +23,7 @@
 - Angular
 ![This is an image](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
 
-<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="400" />
+<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="50" />
 
 
 ## Libraries
