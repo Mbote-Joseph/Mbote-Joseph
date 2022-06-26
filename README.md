@@ -50,17 +50,89 @@
 
 [![Mbote's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mbote_Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
 
-## Frameworks
+<!-- ## Frameworks
 
 - Angular
 - Django
   ![This is an image](https://angular.io/assets/images/logos/angular/logo-nav@2x.png)
 
-<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="100" />
+<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" data-canonical-src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" width="200" height="100" /> -->
 
-## Libraries
+<!-- ## Libraries
 
-- React JS
+- React JS -->
+
+## Contribution Graph
+
+<p>
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Mbote-Joseph&theme=github" alt="Mbote_Joseph" />
+</p>
+&nbsp;
+
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
+<p align='center'>
+  <a href="www.linkedin.com/in/mbote-joseph">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/mbote-joseph">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ <a href="https://wa.me/+254792622515">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a>&nbsp;&nbsp;
+ <a href="mailto:mbotejoseph001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>&nbsp;&nbsp;
+  <a href="https://t.me/Jose Mbote">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+ </a> &nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="https://twitter.com/Mbote Jose">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Mbote-Joseph">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ 
+</p>
+
+ <h2>Certifications</h2>  
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://simpli-web.app.link/e/PUxkULg0arb">
+          <img
+            width="300px"
+            src="assets/images/angular.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://simpli-web.app.link/e/PUxkULg0arb"
+          >Verify</a
+        >
+      </td>
+      <td>
+        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
+          <img
+            src="assets/certificates/Hackerrankproblemsolving.png"
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce"
+          >Verify</a
+        >
+      </td>
+    </tr>
+  </tbody>
+</table>
+</details>
+</h2>
 
 - ⚡ Fun fact: Not today, Not tomorrow but One day
 
