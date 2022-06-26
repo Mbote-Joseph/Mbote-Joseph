@@ -10,14 +10,9 @@
   -Email: mbotejoseph001@gmail.com
   Mobile: +254792622515
 
-## Languages:
+  #### Top Technologies
 
-- Python
-- JavaScript
-- Java
-- HTML
-- CSS
-- PHP
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Experience
 
@@ -38,6 +33,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" />
 </p>
+
+### 🏆 <!--My Trophies-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mbote-Joseph&theme=onedark&no-bg=false&count_private=true)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+
+<!--### Github Stats-->
+
+![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbote-Joseph&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+
+<!--### Github extra pins-->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mbote-Joseph&repo=Mbote-Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph&show_owner=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbote-Joseph&layout=compact&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+
+[![Mbote's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mbote-Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
 
 ## Frameworks
 
