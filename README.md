@@ -1,6 +1,6 @@
 <h3>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
 
-![portfolio](assets/images/portfolio.png)
+[![portfolio](assets/images/portfolio.png)](https://mbote-joseph.netlify.app/)
 
 ## I am Mbote-Joseph, Software Engineer.
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[[![wakatime](https://wakatime.com/badge/user/723199b5-a23d-4560-937a-016d503b743f.svg)](https://wakatime.com/@723199b5-a23d-4560-937a-016d503b743f)](https://mbote-joseph.netlify.app/)
+[![wakatime](https://wakatime.com/badge/user/723199b5-a23d-4560-937a-016d503b743f.svg)](https://wakatime.com/@723199b5-a23d-4560-937a-016d503b743f)
 
 ### Views
 
