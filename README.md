@@ -1,5 +1,7 @@
-<h3>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  ></h3>
+<h3>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
+
 ![portfolio](assets/images/portfolio.png)
+
 ## I am Mbote-Joseph, Software Engineer.
 
 - 🌱 I’m currently learning and in my final year BSc. Computer Science at JKUAT.
@@ -47,3 +49,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[[![wakatime](https://wakatime.com/badge/user/723199b5-a23d-4560-937a-016d503b743f.svg)](https://wakatime.com/@723199b5-a23d-4560-937a-016d503b743f)](https://mbote-joseph.netlify.app/)
+
+### Views
+
+[![Image of https://github.com/Mbote-Joseph/wakatime-views-counter](https://github.com/Mbote-Joseph/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
