@@ -1,5 +1,6 @@
 <h3>Hi, <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  ></h3>
 ![portfolio](assets/images/portfolio.png)
+
 ## I am Mbote-Joseph, Software Engineer.
 
 - 🌱 I’m currently learning and in my final year BSc. Computer Science at JKUAT.
