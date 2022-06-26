@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.INSIGHTS }}
+          WAKATIME_API_KEY: ${{ secrets.INSIGHTS_TOKEN }}
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
