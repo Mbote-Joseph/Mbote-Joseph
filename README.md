@@ -48,7 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbote-Joseph&layout=compact&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
 
-[![Mbote's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mbote-Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
+[![Mbote's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mbote_Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph)
 
 ## Frameworks
 
