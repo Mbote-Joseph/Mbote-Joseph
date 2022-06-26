@@ -50,7 +50,7 @@
 
 <!--### Github Stats-->
 
-![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbote-Joseph&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+![Mbote_Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbote-Joseph&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
 <!--### Github extra pins-->
 
