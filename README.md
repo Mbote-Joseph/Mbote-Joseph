@@ -133,13 +133,13 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
       <td>
         <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
           <img
-            src="assets/certificates/Hackerrankproblemsolving.png"
+            src="assets/images/hourOfCode.jpeg"
             width="300px"
           />
         </a>
       </td>
       <td>
-        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce"
+        <a href="http://code.org/certificates/_1_2f59494bc95e0d704a5fd0be41843e1c"
           >Verify</a
         >
       </td>
