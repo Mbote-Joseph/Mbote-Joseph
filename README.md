@@ -55,6 +55,8 @@ Other        23 mins         ████░░░░░░░░░░░░░
 
 ![Mbote_Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbote-Joseph&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mbote-Joseph&theme=dark" /></p>
+
 <!--### Github extra pins-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mbote-Joseph&repo=Mbote-Joseph&theme=dark&title_color=009933)](https://github.com/Mbote-Joseph/Mbote-Joseph&show_owner=true&count_private=true)
@@ -149,7 +151,9 @@ Other        23 mins         ████░░░░░░░░░░░░░
 
 - ⚡ Fun fact: Not today, Not tomorrow but One day
 
-### [🌲,🌳,🌴].push(🌲)
+```
+ [🌲,🌳,🌴].push(🌲)
+ ```
 
 <!--
 **Mbote-Joseph/Mbote-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -171,3 +175,9 @@ Here are some ideas to get you started:
 ### Views
 
 [![Image of https://github.com/Mbote-Joseph/wakatime-views-counter](https://github.com/Mbote-Joseph/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
+
+<p>
+  <a href="https://github.com/hesbon-osoro?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mbote-Joseph?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
