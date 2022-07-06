@@ -185,3 +185,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/Mbote-Joseph?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
+
+<p>
+  <a href="https://github.com/Mbote-Joseph?tab=following">
+    <img src="https://img.shields.io/github/following/Mbote-Joseph?label=Following&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
