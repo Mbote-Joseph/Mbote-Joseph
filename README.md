@@ -180,7 +180,13 @@ Here are some ideas to get you started:
 [![Image of https://github.com/Mbote-Joseph/wakatime-views-counter](https://github.com/Mbote-Joseph/wakatime-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Mbote-Joseph/wakatime-views-counter)
 
 <p>
-  <a href="https://github.com/hesbon-osoro?tab=followers">
+  <a href="https://github.com/Mbote-Joseph?tab=followers">
     <img src="https://img.shields.io/github/followers/Mbote-Joseph?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Mbote-Joseph?tab=following">
+    <img src="https://img.shields.io/github/following/Mbote-Joseph?label=Following&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
