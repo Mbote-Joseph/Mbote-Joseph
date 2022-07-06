@@ -185,3 +185,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/Mbote-Joseph?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
+
+# 😂 Here is a random joke for you today: -
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
