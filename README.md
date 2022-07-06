@@ -19,13 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 June 2022 - To: 04 July 2022
+From: 05 June 2022 - To: 05 July 2022
 
-Markdown     2 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-HTML         1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-JavaScript   1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-TypeScript   1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Other        1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+HTML         3 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
+Python       2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+Markdown     2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+JavaScript   1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+TypeScript   1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Other        1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
 ```
 
 <!--END_SECTION:waka-->
@@ -182,11 +183,5 @@ Here are some ideas to get you started:
 <p>
   <a href="https://github.com/Mbote-Joseph?tab=followers">
     <img src="https://img.shields.io/github/followers/Mbote-Joseph?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Mbote-Joseph?tab=following">
-    <img src="https://img.shields.io/github/following/Mbote-Joseph?label=Following&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
