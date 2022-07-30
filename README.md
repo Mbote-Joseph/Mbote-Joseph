@@ -19,7 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 June 2022 - To: 29 July 2022
+
+Python       12 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.60 %
+HTML         7 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   24.03 %
+Java         4 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
+TypeScript   2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+CSS          1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
