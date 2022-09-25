@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 22 September 2022
+From: 24 August 2022 - To: 23 September 2022
 
-Java         4 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   40.93 %
-Python       2 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-HTML         1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-TypeScript   1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-CSS          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Java         4 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   35.79 %
+Python       2 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.49 %
+HTML         2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+TypeScript   1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+CSS          1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
