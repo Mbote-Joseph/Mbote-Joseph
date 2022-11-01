@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 29 October 2022
+From: 30 September 2022 - To: 30 October 2022
 
 Python       9 hrs 22 mins   ████████████████▓░░░░░░░░   66.02 %
 Java         3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
