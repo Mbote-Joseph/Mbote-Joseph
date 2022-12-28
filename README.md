@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 25 December 2022
+From: 26 November 2022 - To: 26 December 2022
 
 HTML         3 hrs 59 mins   ████████████▒░░░░░░░░░░░░   49.61 %
 Python       2 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.25 %
