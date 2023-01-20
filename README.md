@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 17 January 2023
+From: 19 December 2022 - To: 18 January 2023
 
-JavaScript   16 hrs          ███████████▒░░░░░░░░░░░░░   44.83 %
-HTML         9 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
-CSS          4 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-TypeScript   3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Python       1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-XML          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JavaScript   15 hrs 47 mins  ████████████░░░░░░░░░░░░░   47.34 %
+HTML         8 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
+CSS          4 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+TypeScript   3 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Python       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+PHP          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
