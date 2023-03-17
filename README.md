@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 14 March 2023
+From: 13 February 2023 - To: 15 March 2023
 
 C++          4 hrs 28 mins   ███████▓░░░░░░░░░░░░░░░░░   31.11 %
 JavaScript   2 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
