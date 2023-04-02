@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 30 March 2023
+From: 01 March 2023 - To: 31 March 2023
 
 C            19 hrs 32 mins  ████████████▒░░░░░░░░░░░░   48.72 %
 C++          7 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
