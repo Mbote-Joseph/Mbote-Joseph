@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 04 May 2023
+From: 05 April 2023 - To: 05 May 2023
 
 C++          9 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   36.79 %
 C            8 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   32.67 %
