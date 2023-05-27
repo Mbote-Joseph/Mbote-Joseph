@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 24 May 2023
+From: 25 April 2023 - To: 25 May 2023
 
-JavaScript   6 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.09 %
-Python       2 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-TypeScript   2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Markdown     2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Java         1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+JavaScript   6 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.06 %
+Python       2 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+TypeScript   2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Markdown     2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Java         1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 ```
 
 <!--END_SECTION:waka-->
