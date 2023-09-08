@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 05 September 2023
+From: 07 August 2023 - To: 06 September 2023
 
-TypeScript       34 hrs          ███████████▒░░░░░░░░░░░░░   45.34 %
-JavaScript       13 hrs 57 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-HTML             12 hrs 33 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-Python           7 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-SCSS             3 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+TypeScript       32 hrs 5 mins   ███████████░░░░░░░░░░░░░░   43.64 %
+JavaScript       14 hrs 30 mins  █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+HTML             12 hrs 29 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Python           7 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+SCSS             3 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
