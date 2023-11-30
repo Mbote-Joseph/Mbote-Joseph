@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2023 - To: 27 November 2023
+From: 29 October 2023 - To: 28 November 2023
 
 Python       8 hrs 21 mins   ███████████████▒░░░░░░░░░   60.74 %
 Java         2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
