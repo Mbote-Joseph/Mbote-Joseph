@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2023 - To: 17 December 2023
+From: 18 November 2023 - To: 18 December 2023
 
-Java     1 hr            ████████████▓░░░░░░░░░░░░   51.00 %
-Python   57 mins         ████████████▒░░░░░░░░░░░░   48.86 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java     1 hr            ████████████████▒░░░░░░░░   65.82 %
+Python   31 mins         ████████▓░░░░░░░░░░░░░░░░   34.01 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
