@@ -19,10 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2023 - To: 08 January 2024
+From: 10 December 2023 - To: 09 January 2024
 
-Markdown   2 mins          █████████████▒░░░░░░░░░░░   53.40 %
-C          2 mins          ███████████▓░░░░░░░░░░░░░   46.60 %
+C          1 hr 26 mins    ████████████████████████░   96.20 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
