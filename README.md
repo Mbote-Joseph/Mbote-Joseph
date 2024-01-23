@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 20 January 2024
+From: 22 December 2023 - To: 21 January 2024
 
 C          1 hr 58 mins    ████████████████████████▒   97.20 %
 Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
