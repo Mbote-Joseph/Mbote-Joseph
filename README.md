@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 22 February 2024
+From: 24 January 2024 - To: 23 February 2024
 
-C               3 hrs           ████████▓░░░░░░░░░░░░░░░░   34.28 %
-Python          1 hr 31 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
-TypeScript      1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Markdown        1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Text            44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+C               7 hrs 47 mins   █████████████▓░░░░░░░░░░░   54.86 %
+Python          1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Makefile        1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+TypeScript      1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Markdown        1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
 ```
 
 <!--END_SECTION:waka-->
