@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 07 March 2024
+From: 07 February 2024 - To: 08 March 2024
 
-C               8 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.98 %
-JavaScript      2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Python          1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-CSS             1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Makefile        1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+C               8 hrs 31 mins   ███████████░░░░░░░░░░░░░░   43.52 %
+JavaScript      2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Python          1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+CSS             1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Makefile        1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
