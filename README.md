@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 16 March 2024
+From: 16 February 2024 - To: 17 March 2024
 
-C               5 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.13 %
-JavaScript      2 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
-CSS             1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Python          52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Markdown        52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+C               5 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.61 %
+JavaScript      2 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+CSS             1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Markdown        1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Python          52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 <!--END_SECTION:waka-->
