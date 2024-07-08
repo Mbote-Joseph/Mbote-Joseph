@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 05 July 2024
+From: 06 June 2024 - To: 06 July 2024
 
 TypeScript    10 hrs 15 mins  ████████▓░░░░░░░░░░░░░░░░   34.96 %
-JavaScript    7 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+JavaScript    7 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
 HTML          4 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
 CSS           3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
 Java          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
