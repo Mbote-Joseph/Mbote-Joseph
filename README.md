@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2024 - To: 18 July 2024
+From: 19 June 2024 - To: 19 July 2024
 
-TypeScript   8 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.22 %
-JavaScript   4 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-HTML         3 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-CSS          2 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TypeScript   6 hrs 58 mins   █████████▓░░░░░░░░░░░░░░░   38.21 %
+JavaScript   5 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   28.34 %
+HTML         3 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+CSS          2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
