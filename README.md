@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 20 October 2024
+From: 22 September 2024 - To: 22 October 2024
 
-TypeScript        43 hrs 10 mins  █████████████████████░░░░   83.95 %
-JavaScript        4 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Python            1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Java Properties   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Groovy            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+TypeScript        47 hrs 41 mins  █████████████████████░░░░   84.25 %
+JavaScript        4 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Python            1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Java Properties   47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Bash              45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
