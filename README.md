@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2024 - To: 02 January 2025
+From: 04 December 2024 - To: 03 January 2025
 
 JavaScript   23 mins         ███████████████▒░░░░░░░░░   60.88 %
 HTML         10 mins         ███████░░░░░░░░░░░░░░░░░░   27.50 %
