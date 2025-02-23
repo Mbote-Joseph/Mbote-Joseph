@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2025 - To: 20 February 2025
+From: 22 January 2025 - To: 21 February 2025
 
 HTML         2 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 %
 CSS          1 hr 41 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
