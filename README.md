@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 28 March 2025
+From: 28 February 2025 - To: 30 March 2025
 
-Python       5 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   46.92 %
-Markdown     1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-TypeScript   1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-JavaScript   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Java         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Python       5 hrs 32 mins   ██████████████▒░░░░░░░░░░   56.88 %
+TypeScript   1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Java         45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+YAML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Text         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
