@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 04 May 2025
+From: 05 April 2025 - To: 05 May 2025
 
 HTML         6 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
 CSS          5 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
