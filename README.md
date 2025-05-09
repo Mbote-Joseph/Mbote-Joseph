@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 06 May 2025
+From: 07 April 2025 - To: 07 May 2025
 
-HTML         6 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-CSS          5 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-TypeScript   4 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-Python       4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-JavaScript   3 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+CSS          5 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
+HTML         5 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+TypeScript   4 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+Python       4 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+JavaScript   2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
 ```
 
 <!--END_SECTION:waka-->
