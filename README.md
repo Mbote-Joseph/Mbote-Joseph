@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2025 - To: 08 July 2025
+From: 09 June 2025 - To: 09 July 2025
 
-JavaScript    3 hrs 10 mins   ██████████████▓░░░░░░░░░░   59.30 %
-TypeScript    1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-HTML          49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Image (svg)   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-CSS           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+JavaScript    3 hrs 12 mins   ███████████████▓░░░░░░░░░   62.21 %
+TypeScript    1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+HTML          31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+CSS           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Image (svg)   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
