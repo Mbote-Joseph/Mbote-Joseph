@@ -19,9 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 05 September 2025
+From: 07 August 2025 - To: 06 September 2025
 
-JavaScript    12 hrs 55 mins  ████████████░░░░░░░░░░░░░   47.65 %
+JavaScript    12 hrs 55 mins  ████████████░░░░░░░░░░░░░   47.64 %
 HTML          9 hrs           ████████▒░░░░░░░░░░░░░░░░   33.19 %
 Image (svg)   2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 TypeScript    57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
