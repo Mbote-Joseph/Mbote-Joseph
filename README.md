@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 05 October 2025
+From: 06 September 2025 - To: 06 October 2025
 
-JavaScript    9 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
-HTML          9 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-TypeScript    6 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-Python        3 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-SCSS          1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+HTML          9 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
+JavaScript    9 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
+TypeScript    6 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+Python        3 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+SCSS          1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
