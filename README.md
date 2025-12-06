@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 03 December 2025
+From: 04 November 2025 - To: 04 December 2025
 
 Python       3 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.64 %
 HTML         2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
