@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 17 December 2025
+From: 18 November 2025 - To: 18 December 2025
 
-Python        38 hrs 34 mins  █████████████████░░░░░░░░   68.25 %
-HTML          8 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-Markdown      4 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-CSS           1 hr 52 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-TypeScript    1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Python        40 hrs 51 mins  ████████████████▓░░░░░░░░   67.33 %
+HTML          9 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Markdown      4 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+TypeScript    2 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+CSS           2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->
