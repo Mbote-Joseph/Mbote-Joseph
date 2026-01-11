@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2025 - To: 08 January 2026
+From: 10 December 2025 - To: 09 January 2026
 
-Python        39 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.56 %
-HTML          17 hrs 14 mins  █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-TypeScript    11 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Markdown      9 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-CSS           4 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Python        36 hrs 23 mins  ███████████▒░░░░░░░░░░░░░   44.86 %
+HTML          16 hrs 4 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+TypeScript    11 hrs 53 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Markdown      9 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+CSS           4 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
