@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 23 January 2026
+From: 25 December 2025 - To: 24 January 2026
 
 Python        18 hrs 50 mins  ███████▒░░░░░░░░░░░░░░░░░   29.32 %
 TypeScript    15 hrs 58 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
