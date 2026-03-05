@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 02 March 2026
+From: 01 February 2026 - To: 03 March 2026
 
-HTML          2 hrs 33 mins         ███████████▒░░░░░░░░░░░░░   45.99 %
-TypeScript    1 hr 15 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
-Python        40 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-JavaScript    24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-SCSS          14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+HTML          2 hrs 4 mins          ██████████▓░░░░░░░░░░░░░░   42.64 %
+TypeScript    1 hr 15 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+Python        1 hr 5 mins           █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+SCSS          14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+JSON          9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
