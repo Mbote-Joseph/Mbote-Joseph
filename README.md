@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2026 - To: 29 March 2026
+From: 28 February 2026 - To: 30 March 2026
 
-Python           3 hrs 5 mins          ██████████▒░░░░░░░░░░░░░░   41.81 %
-JavaScript       2 hrs 17 mins         ███████▓░░░░░░░░░░░░░░░░░   30.91 %
-RGBDS Assembly   57 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-CSS              18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Other            14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Python           3 hrs 5 mins          █████████▒░░░░░░░░░░░░░░░   36.87 %
+JavaScript       2 hrs 38 mins         ████████░░░░░░░░░░░░░░░░░   31.54 %
+RGBDS Assembly   57 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+CSS              34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+HTML             26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
