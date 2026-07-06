@@ -1,6 +1,7 @@
 <h3>Hi, <img src="./assets/icons/wave.gif" height="32px" style="margin-bottom: -5px;"  /></h3>
 
-[![portfolio](assets/images/portfolio.png)](https://mbote-joseph.netlify.app/)
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/ab153c06-d2cf-40e6-820d-c6de2b86b9ea" />
+
 
 ## I am Mbote-Joseph, Software Engineer.
 
